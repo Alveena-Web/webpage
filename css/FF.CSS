@@ -1,0 +1,505 @@
+#Header{
+    display: flex;
+    width: 100%;
+    height:70px;
+    border: 1px solid rgb(63, 61, 61) ;
+    background-color: rgb(63, 61, 61);
+   
+}
+.serchcooking{
+    width:30%;
+}
+.cooking{
+    margin-left: 300px;
+}
+.icon{
+    padding-left: 45%;
+     
+}
+.icon :hover{
+  transform: translate(0,-10px);
+
+}
+#nav{
+    display: flex;
+    height: 150px;
+   border: 1px solid rgb(223, 220, 220);
+    background-color: white;
+}
+.logo{
+    padding-left: 70px;
+    padding-top: 10px;
+}
+.nav_bar{
+    display: flex;
+padding-left: 20%;
+}
+.ul{
+    display: flex;
+}
+.li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.li a {
+
+}
+.icon-1{
+    padding-left: 200px;
+    padding-top: 60px;
+}
+#section{
+    height: 3000px;
+    border: 1px solid rgb(241, 239, 239);
+}
+.banner{
+    height: 330px;
+ /*   border: 1px solid yellow;*/
+    background-image:url(../img/Untitled\ design.png);
+    color: white;
+    text-align: center;
+    font-style: normal;
+    font-size: larger;
+    font-weight: bold;
+}
+.form-control{
+    margin-left: 180px;
+    border-radius: 15px;
+}
+.form-control:hover{
+    border-color: orange;
+    border-bottom: orange;
+}
+.btn{
+    border-radius: 15px;
+    background-color: orange;
+ border: 1px solid orange;
+    color: white;
+}
+.btn:hover{
+   background-color: black;
+    border:1px solid black ;
+    color: white;
+}
+.form{
+    border-radius: 10px;
+}
+
+.part-close{
+width: 100%;
+height: 550px;
+border: 1px solid white;
+}
+.bar{
+   display: flex;
+   height: 550px ;
+   
+}
+.bar-1,.bar-2{
+    width: 100%;
+   border: 1px solid white;
+    margin-inline: 10px;
+   margin-top: 10px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+.bar-1{
+}
+.box-0{
+    width: 570px;
+    height: 530px;
+    border: 1px solid rgb(219, 226, 228);
+    margin-left: 60px;
+    padding-left: 4px;
+    color: rgb(66, 60, 60) ; ;
+    padding-top: 10px;
+}
+.bar-2{
+    display: flex;
+    height: 310px;
+}
+.box-1 ,.box-2{
+    width: 310px;
+    height: 300px;
+    border: 1px solid rgb(219, 226, 228);
+    margin-left: 0px;
+    padding-left: 4.5px;
+    padding-top: 10px;
+    color: rgb(66, 60, 60) ; ;
+}
+.box-2{
+    margin-left: 20px;
+}
+#box{
+    display: flex;
+    height: 310px;
+    scroll-margin-block: 900px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.box-3 ,.box-4 ,.box-5 ,.box-6{
+    width: 310px;
+    height: 300px;
+    border: 1px solid rgb(219, 226, 228);
+    margin-top: 30px;
+  margin-left: 20px;
+  padding-left: 4px;
+  padding-top: 5px;
+  color: rgb(66, 60, 60) ; ;
+}
+.button{
+    margin-top: 370px;
+    margin-left: 42%;
+    width:200px ;
+    height: 60px;
+    border-radius: 7px;
+    background-color: orange;
+    border: 1px solid orange;
+  text-align: center;
+  
+}
+.button:hover{
+    background: black;
+    color: aqua;
+    border: black;
+}
+.h2:hover{
+    color: orange;
+}
+.boxx{
+    display: flex;
+    height: 310px;
+     font-family: Arial, Helvetica, sans-serif;
+   
+}
+.box-7 ,.box-8 ,.box-9 ,.box-10{
+    width: 310px;
+    height: 300px;
+    border: 1px solid rgb(219, 226, 228);
+    margin-top: 45px;
+  margin-left: 20px;
+  padding-left: 4px;
+  padding-top: 5px;
+  color: rgb(66, 60, 60) ; ;
+}
+.boxxx{
+    display: flex;
+    height: 310px;
+    scroll-margin-block: 900px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+.box-11 ,.box-12 ,.box-13 ,.box-14{
+    width: 310px;
+    height: 300px;
+    border: 1px solid rgb(219, 226, 228);
+   margin-top: 60px;
+  margin-left: 20px;
+  padding-left: 4px;
+  padding-top: 5px;
+  color: rgb(66, 60, 60) ; ;
+}
+
+.square{
+    height: 600px;
+    border: 1px solid black;
+    margin-top: 100px;
+    background-image: url(../img/240_F_825728119_dyLLmXP7o3USG8NNLO7oCHVfvu0OfkOo.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.text{
+    
+color: solid white;
+font-family: "Edu AU VIC WA NT Hand", cursive;
+text-align: center;
+padding-top: 200px;
+}
+
+#footer{
+    height: 350px;
+    border: 1px solid  rgb(63, 61, 61);
+    background-color:  rgb(63, 61, 61);
+   /* padding-left: 70px;
+    padding-top: 25px;*/
+}
+.bar-a{
+    display: flex;
+height: 350px;
+}
+.box-15 ,.box-16 ,.box-17{
+color: aliceblue;
+/*border: 1px solid white;*/
+width: 700px;
+/*margin-inline: 10px;*/
+}
+.box-15{
+    width: 800px;
+    padding-left: 30px;
+    padding-top: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h3{
+    color: orange;
+}
+.box-16{
+width: 300px;
+}
+.box-17{
+    width: 180px;
+    
+}
+#end-box{
+    width: 100%;
+    height: 150px;
+    border: 1px solid white;
+    background-color: white;
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
+#section-last{
+    height: 600px;
+    border: 1px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+   
+    color: rgb(95, 93, 93);
+}
+#section-about{
+    height: 800px;
+    border: 1px solid white;
+font-family: Arial, Helvetica, sans-serif;
+}
+.boxes{
+    display: flex;
+    height: 500px;
+   margin-left: 70px;
+}
+.box--1 ,.box--2{
+    width: 550px;
+    border: 1px solid white;
+    margin-left: 40px;
+    color: rgb(95, 93, 93);
+    font-family: Arial, Helvetica, sans-serif;
+font-size:15px
+}
+.box--1{
+padding-top: 90px;
+}
+.box--2{
+    padding-top: 20px;
+}
+#section-recipes{
+height: 1500px;
+border: 1px solid white;
+}
+.box{
+    display: flex;
+    height: 310px;
+    scroll-margin-block: 900px;
+    margin-left: 60px;
+   
+} 
+
+.box-a ,.box-b ,.box-c{
+    width: 310px;
+    height: 300px;
+    border: 1px solid rgb(219, 226, 228);
+   margin-top: 30px;
+  margin-left: 20px;
+  padding-left: 7px;
+  padding-top: 5px;
+}
+.drinkname{
+    width:80%;
+}
+.drinkdrop{
+    width: 20%;
+    margin-top: 20px;
+}
+#section-drinks{
+height: 1500px;
+font-family: Arial, Helvetica, sans-serif;
+border: 1px solid white;
+}
+.box{
+    padding-right: 7px;
+}
+#drinkstart{
+    display: flex;
+}
+#drinks{
+    height: 50px;
+}
+.box{
+    display: flex;
+    height: 310px;
+    scroll-margin-block: 900px;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.box-d ,.box-e ,.box-f{
+    width: 310px;
+    height: 300px;
+    border: 1px solid rgb(219, 226, 228);
+    margin-top: 30px;
+  margin-left: 20px;
+  padding-left: 7px;
+  padding-top: 5px;
+  font-weight: 500px;
+}
+#section-dish{
+    height: 1500px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+}
+
+#section-breakfast{
+height: 1500px;
+border: 1px solid white;
+font-family: Arial, Helvetica, sans-serif;
+}
+#section-desserts{
+    height: 1500px;
+border: 1px solid white;
+font-family: Arial, Helvetica, sans-serif;
+}
+#section-lunch{
+    height: 1500px;
+border: 1px solid white;
+font-family: Arial, Helvetica, sans-serif;
+}
+#section-contact{
+    height: 800PX;
+    border: 1px solid white;
+    }
+    .container{
+        height: 710px;
+       width: 70%;
+        border: 1px solid rgb(100, 98, 98);
+        margin-left: 15%;
+    
+    }
+    .column{
+        height: 680px;
+       /* border: 1px solid #ccc; ;*/
+       margin-left: 23%;
+    
+    }
+    * {
+        box-sizing: border-box;
+    }
+      
+      /* Style inputs */
+      input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+        border-radius: 10px;
+      }
+      input[type=email], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+        border-radius: 10px;
+      }
+      input[type=feedback], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        margin-top: 6px;
+        margin-bottom: 16px; border-radius: 10px;
+        resize: vertical;
+      }
+      input[type=number], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        margin-top: 6px; border-radius: 10px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+      
+      input[type=submit] {
+        background-color: orange;
+        color: white; border-radius: 10px;
+        padding: 12px 20px;
+        border: none;
+        cursor: pointer;
+        margin-left: 38%;
+      }
+      
+      input[type=submit]:hover {
+        background-color:black;
+      }
+      
+      /* Style the container/contact section */
+      .container {
+        border-radius: 10px;
+        background-color: #f2f2f2;
+        padding: 10px;
+      }
+      
+      /* Create two columns that float next to eachother */
+      .column {
+        float: left;
+        width: 50%;
+        margin-top: 6px;
+        padding: 20px;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      
+      /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+      @media screen and (max-width: 600px) {
+        .column, input[type=submit] {
+          width: 100%;
+          margin-top: 0;
+        }
+      }
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
